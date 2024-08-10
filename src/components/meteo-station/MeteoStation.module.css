@@ -1,0 +1,10 @@
+.table-header-row {
+  background-color: var(--ternary-color);
+  color: var(--white-color);
+  text-align: left;
+}
+
+.table-header-row > th {
+  border: 1px solid var(--ternary-color);
+  padding: 0.5em;
+}

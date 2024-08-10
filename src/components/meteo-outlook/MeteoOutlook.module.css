@@ -1,0 +1,12 @@
+.no-results-found, .request-error {
+  text-align: center;
+  padding: 4em;
+}
+
+.no-results-found {
+  color: var(--quinary-color);
+}
+
+.request-error {
+  color: red;
+}

@@ -1,0 +1,11 @@
+.message-type {
+  padding-top: 1em;
+}
+
+.message-type > input:checked {
+  accent-color: var(--primary-color);
+}
+
+.type-error {
+  color: red;
+}
